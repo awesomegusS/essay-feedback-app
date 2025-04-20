@@ -1,0 +1,8 @@
+openai
+langchain
+streamlit
+flask
+jinja2
+tiktoken
+pandas
+scikit-learn
